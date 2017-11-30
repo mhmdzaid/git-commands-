@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		162884971FD040AB0068B1A5 /* BakeloveLogo3_1456751878.png in Resources */ = {isa = PBXBuildFile; fileRef = 162884961FD040AB0068B1A5 /* BakeloveLogo3_1456751878.png */; };
+		162884991FD041560068B1A5 /* secondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 162884981FD041560068B1A5 /* secondViewController.swift */; };
 		16627BEF1FCF77F0006D476A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16627BEE1FCF77F0006D476A /* AppDelegate.swift */; };
 		16627BF11FCF77F0006D476A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16627BF01FCF77F0006D476A /* ViewController.swift */; };
 		16627BF41FCF77F0006D476A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 16627BF21FCF77F0006D476A /* Main.storyboard */; };
@@ -15,6 +17,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		162884961FD040AB0068B1A5 /* BakeloveLogo3_1456751878.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BakeloveLogo3_1456751878.png; sourceTree = "<group>"; };
+		162884981FD041560068B1A5 /* secondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = secondViewController.swift; sourceTree = "<group>"; };
 		16627BEB1FCF77F0006D476A /* project.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = project.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		16627BEE1FCF77F0006D476A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		16627BF01FCF77F0006D476A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -54,12 +58,14 @@
 		16627BED1FCF77F0006D476A /* project */ = {
 			isa = PBXGroup;
 			children = (
+				162884961FD040AB0068B1A5 /* BakeloveLogo3_1456751878.png */,
 				16627BEE1FCF77F0006D476A /* AppDelegate.swift */,
 				16627BF01FCF77F0006D476A /* ViewController.swift */,
 				16627BF21FCF77F0006D476A /* Main.storyboard */,
 				16627BF51FCF77F0006D476A /* Assets.xcassets */,
 				16627BF71FCF77F0006D476A /* LaunchScreen.storyboard */,
 				16627BFA1FCF77F0006D476A /* Info.plist */,
+				162884981FD041560068B1A5 /* secondViewController.swift */,
 			);
 			path = project;
 			sourceTree = "<group>";
@@ -126,6 +132,7 @@
 				16627BF91FCF77F0006D476A /* LaunchScreen.storyboard in Resources */,
 				16627BF61FCF77F0006D476A /* Assets.xcassets in Resources */,
 				16627BF41FCF77F0006D476A /* Main.storyboard in Resources */,
+				162884971FD040AB0068B1A5 /* BakeloveLogo3_1456751878.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				16627BF11FCF77F0006D476A /* ViewController.swift in Sources */,
+				162884991FD041560068B1A5 /* secondViewController.swift in Sources */,
 				16627BEF1FCF77F0006D476A /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
